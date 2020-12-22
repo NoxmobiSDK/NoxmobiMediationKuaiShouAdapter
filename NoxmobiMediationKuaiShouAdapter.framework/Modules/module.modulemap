@@ -1,0 +1,6 @@
+framework module NoxmobiMediationKuaiShouAdapter {
+  umbrella header "NoxmobiMediationKuaiShouAdapter.h"
+
+  export *
+  module * { export * }
+}
