@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationKuaiShouAdapter"
-  spec.version      = "3.3.7.0" # Mark
+  spec.version      = "3.3.8.2.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for KuaiShou."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationKuaiShouAdapter"
   spec.license      = "MIT"
@@ -14,6 +14,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationKuaiShouAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "KSAdSDK", "3.3.7"
+  spec.dependency "KSAdSDK", "3.3.8.2"
 
 end
