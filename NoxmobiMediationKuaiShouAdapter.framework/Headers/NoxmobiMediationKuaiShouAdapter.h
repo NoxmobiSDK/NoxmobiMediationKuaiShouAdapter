@@ -9,6 +9,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationKuaiShouAdapterVersion @"3.3.22.0"
+#define NoxmobiMediationKuaiShouAdapterVersion @"3.3.25.0"
 
 
